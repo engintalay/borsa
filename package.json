@@ -1,0 +1,19 @@
+{
+  "name": "borsa",
+  "version": "1.0.0",
+  "description": "Borsa Hesap UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-lite-server": "lite-server",
+    "start-tsc-watch-mode": "npx tsc -w"
+  },
+  "author": "Engin Talay",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
