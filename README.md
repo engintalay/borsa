@@ -1,1 +1,1 @@
-# borsa
+# BİST - Borsa Takip
